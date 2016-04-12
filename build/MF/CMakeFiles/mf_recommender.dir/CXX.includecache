@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiang/homework/biganalyze/MF/base_mf.cpp
+evaluate.h
+/home/jiang/homework/biganalyze/MF/evaluate.h
+load.h
+/home/jiang/homework/biganalyze/MF/load.h
+cmath
+-
+algorithm
+-
+vector
+-
+iostream
+-
+Eigen/Eigen
+-
+
+/home/jiang/homework/biganalyze/MF/evaluate.h
+cmath
+-
+vector
+-
+Eigen/Eigen
+-
+
+/home/jiang/homework/biganalyze/MF/load.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cstdlib
+-
+map
+-
+

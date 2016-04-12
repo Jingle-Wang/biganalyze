@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp  -m64 -msse4.1 -O3 -I/home/jiang/home  -std=c++11 -O3 -DNDEBUG    CMakeFiles/mf_recommender.dir/base_mf.cpp.o  -o mf_recommender -rdynamic 
